@@ -3,10 +3,18 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-size: 18px;
     line-height: 1.5;
-    color: #333;
+ 
+}
+
+.container{
     width: 80%;
+}
+
+.para{
+    color: #333;
 }
 
 .title{
     text-align: center;
+    color: red;
 }
