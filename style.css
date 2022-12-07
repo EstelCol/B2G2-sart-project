@@ -12,9 +12,11 @@ body{
 
 .para{
     color: #333;
+    font-weight:bold ;
 }
 
 .title{
     text-align: center;
     color: rgb(148, 36, 36);
+    font-weight: bold;
 }
